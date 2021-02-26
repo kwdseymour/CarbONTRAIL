@@ -1,0 +1,22 @@
+config.json
+**config**
+.DS_Store
+**/.DS_Store
+.ipynb_checkpoints/
+.vscode/
+__pycache__/
+testing/
+setup/Database_Setup.ipynb
+**.log
+Live_Fuel_Demo.ipynb
+
+
+# The following files contain data & methods only available under a BADA license from EUROCONTROL
+carbontrail/FEAT_Radar.py
+**FEAT_Radar.py
+carbontrail/data_inputs/performance_coefficients.csv
+**performance_coefficients.csv
+
+# The following files contain data & methods with restricted access for other reasons
+carbontrail/data_inputs/aircraft_seats.csv
+**aircraft_seats.csv
